@@ -262,7 +262,24 @@ form{
     flex-wrap: wrap;
 }
 @media screen and (max-width:1170px){
-    
+    .laptop{
+        display: none;
+    }
+
+    .forma{
+        display: flex;
+        justify-content: center;
+    }
+
+    .textp{
+    padding-left: 30px;
+    padding-right: 30px;
+    }
+
+    header{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 .services {
@@ -272,6 +289,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
