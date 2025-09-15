@@ -140,6 +140,7 @@ label input::placeholder{
     color: #394b50;
     display: flex;
     justify-content: center;
+    text-align:center;
 }
 
 .th4{
@@ -289,6 +290,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
