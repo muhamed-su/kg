@@ -188,6 +188,7 @@ label input::placeholder{
     color: white;
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 .foto{
@@ -290,6 +291,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
