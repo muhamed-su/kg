@@ -96,10 +96,6 @@ form{
     top: 15px;
     left: 15px;
 }
-label input::placeholder{
-    padding-left: 40px;
-    
-}
 
 .email{
     position: absolute;
@@ -244,6 +240,8 @@ label input::placeholder{
 .bur p{
     color: white;
     padding-top: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 form{
@@ -293,6 +291,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
