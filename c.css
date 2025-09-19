@@ -65,6 +65,7 @@ label {
 label input{
     width: 280px;
     height: 45px;
+    padding-left: 40px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -218,6 +219,7 @@ label input::placeholder{
     padding-left: 40px;
     padding-top: 40px;
     padding-bottom: 15px;
+    padding-right: 20px;
 }
 
 .happyuser img{
@@ -291,6 +293,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
