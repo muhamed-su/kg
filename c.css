@@ -153,7 +153,7 @@ form{
     min-height: 120px;
     width: 512px;
     display: flex;
-    
+    padding-left: 30px;
 
 }
 
@@ -164,6 +164,7 @@ form{
 
 .icons p{
     color: #394b50;
+    padding-right: 30px;
 }
 
 .orange{
@@ -291,6 +292,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
