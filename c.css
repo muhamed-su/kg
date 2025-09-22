@@ -154,7 +154,7 @@ form{
     width: 512px;
     display: flex;
     padding-left: 30px;
-    margin-top: 20px;
+    
 }
 
 .icons b{
@@ -283,6 +283,10 @@ form{
         display: flex;
         flex-direction: column;
     }
+
+    .icons{
+        margin-top: 20px;
+    }
 }
 
 .services {
@@ -292,6 +296,7 @@ form{
     align-items: center;
     flex-direction: column;
 }
+
 
 
 
